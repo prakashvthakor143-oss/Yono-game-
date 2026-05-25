@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -200,12 +199,12 @@
         <a href="https://dp92t0mhjbqu9.cloudfront.net/yonorummyagent.apk" class="game-card top-game-item">
             <span class="rank-badge">1</span>
             <div class="card-image-container">
-                <img src="https://kommodo.ai/i/7S8lx5PODYclMxvtgyJg/raw" class="game-icon" alt="Yono Rummy">
-            </div>
-            <div class="card-details">
-                <div class="rating-row">
-                    <span>⭐</span>
-                    <span>9.9</span>
-                </div>
-                <p class="game-title">Yono Rummy</p>
-                <span class="card
+<img src="https://kommodo.ai/i/7S8lx5PODYclMxvtgyJg/raw" class="game-icon" alt="Yono Rummy">
+</div>
+<div class="card-details">
+div class="rating-row">
+ <span>⭐</span>
+ <span>9.9</span>
+ </div>
+<p class="game-title">Yono Rummy</p>
+<span class="card
